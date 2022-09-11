@@ -1,0 +1,149 @@
+
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+
+}
+h1{
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.practice{
+  transform: rotate(25deg);
+  position: absolute;
+  width:60%;
+  right:30%;
+}
+body{
+  font-family: Montserrat;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family:Montserrat;
+  font-weight: lighter;
+}
+.dbtn{
+  margin-top: 4rem;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.colour{
+  color: #ef8172;
+
+}
+.ck:hover{
+  color: #ff4c68;
+}
+.cc{
+font-size: 1.5rem;
+text-align: center;
+}
+.textf{
+  font-family: Montserrat;
+  font-weight: bold;
+  line-height: 2.5;
+
+}
+.textp{
+  color: #8f8f8f;
+}
+#features{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #fff;
+  z-index: 1;
+ position: relative;
+
+}
+#testimonials{
+  text-align: center;
+
+  background-color: #ef8172;
+  color:#fff;
+}
+h2{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.testimonial-img{
+  border-radius: 100%;
+  width:10%;
+  margin:20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 1.5rem;
+}
+.press-logo{
+  width:15%;
+  margin:20px 20px 15px;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.pricing-col{
+  padding:3% 2%;
+}
+@media (max-width:1028px) {
+  #title{
+    text-align:center;
+  }
+  .practice{
+    transform: rotate(0deg);
+    position: static;
+  }
+}
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 6rem 15rem;
+
+}
+.head{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+
+}
+.mar{
+  margin:0 10px 0;
+}
+.a{
+  position:relative;
+  top: 2rem;
+}
+#footer{
+  text-align: center;
+  background-color: #fff;
+  padding: 4rem 5rem;
+  position: relative;
+}
+#icoc{
+  padding:0 1.5rem;
+}
+.Copyright{
+  bottom: 0px;
+}
